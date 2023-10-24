@@ -1,0 +1,30 @@
+Sinh to 
+25000
+1
+Trua
+0
+1
+Rau ma
+15000
+1
+Trua
+0
+1
+Tra sua
+20000
+1
+Toi
+0
+1
+Sua
+15000
+1
+Trua 
+0
+1
+Tra tac
+15000
+1
+Sang
+0
+1

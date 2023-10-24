@@ -1,0 +1,30 @@
+Ga ran
+25000
+1
+Toi
+1
+0
+Banh bo
+10000
+1
+Sang
+1
+1
+Banh trang tron
+20000
+1
+Toi
+1
+0
+Com chay cha bong
+20000
+1
+Toi
+1
+0
+Com tam
+25000
+1
+Trua
+1
+0
